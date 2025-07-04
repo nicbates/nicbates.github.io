@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: About
 permalink: /about/
 ---
