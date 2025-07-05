@@ -16,7 +16,7 @@ layout: archive
 <div class="entries-{{ entries_layout }}">
     {% for post in posts %}
         {% if post.highlight_home and post.categories contains "work" %}  
-        {% include documents-collection.html entries=posts type=entries_layout %}
+        {% include archive-single.html type=entries_layout %}
         {% endif %}
     {% endfor %} 
 
