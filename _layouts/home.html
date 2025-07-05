@@ -14,9 +14,12 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
 <div class="entries-{{ entries_layout }}">
-  {% if post.highlight_home and post.categories contains "work" %}  
-  {% include documents-collection.html entries=posts type=entries_layout %}
-  {% endif %}
+    {% for post in posts %}
+        {% if post.highlight_home and post.categories contains "work" %}  
+        {% include documents-collection.html entries=posts type=entries_layout %}
+        {% endif %}
+    {% endfor %} 
+
 </div>
 
 {% include paginator.html %}
