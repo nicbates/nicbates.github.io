@@ -1,9 +1,0 @@
-# main links
-main:
-  - title: "Home"
-    url: "/"
-  - title: "My Work"
-    url: "mywork"
-  - title: "About Me"
-    url: "about"
-  
