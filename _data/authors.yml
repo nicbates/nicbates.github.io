@@ -1,11 +1,11 @@
 Nick Bates:
-  name        : "Leigh Stewardson"
-  bio         : "Let's talk about code! Reach out via the links below."
+  name        : "Nick Bates"
+  bio         : ""
   avatar      : "/assets/images/1727808941717.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:name@email.com"
+      url: "#"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.mywebsite.com"
+      url: "#"
