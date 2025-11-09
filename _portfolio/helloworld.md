@@ -26,6 +26,12 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 # header 1
 Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a 
 
+{% highlight python %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
 ## header 2
 Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
