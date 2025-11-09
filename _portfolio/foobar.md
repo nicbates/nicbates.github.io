@@ -2,7 +2,7 @@
 title: "Foo Bar Identity"
 layout: single
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/images/unsplash-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1.jpg
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
