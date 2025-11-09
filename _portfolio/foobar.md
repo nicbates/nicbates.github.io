@@ -1,10 +1,9 @@
 ---
 title: "Foo Bar Identity"
 layout: posts
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/unsplash-gallery-image-1.jpg
+  teaser: assets/images/unsplash-gallery-image-2-th.jpg
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
