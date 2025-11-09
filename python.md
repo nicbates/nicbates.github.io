@@ -1,5 +1,5 @@
 ---
-title: "python tips and tricks"
+title: "Python tips and tricks"
 layout: archive
 ---
 

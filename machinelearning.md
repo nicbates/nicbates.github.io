@@ -1,5 +1,5 @@
 ---
-title: "machine learning tips and tricks"
+title: "Machine learning tips and tricks"
 layout: archive
 ---
 
