@@ -3,7 +3,7 @@ main:
   - title: Home
     url: /
   - title: About Me
-    url: /About
+    url: /about
   - title: Portfolio
     url: Portfolio
   - title: Python
