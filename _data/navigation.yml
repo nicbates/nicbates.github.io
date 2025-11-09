@@ -1,14 +1,15 @@
 # main links
 main:
-  - title: Home
-    url: /
-  - title: About Me
-    url: /about
-  - title: Portfolio
-    url: Portfolio
-  - title: Python
-    url: Python
-  - title: Machine Learning
+  - title: "Home"
+    url: "/""
+  - title: "About Me"
+    url: "/about"
+  - title: "Portfolio"
+    url: "portfolio"
+  - title: "Python"
+    url: "python"
+  - title: "Machine Learning"
+    url: "machinelearning"
   
 
   
