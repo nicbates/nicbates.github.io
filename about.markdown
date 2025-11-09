@@ -1,5 +1,5 @@
 ---
-title: "About Nick Bates"
+title: "About Me"
 layout: single
 classess: wide
 author_profile: true

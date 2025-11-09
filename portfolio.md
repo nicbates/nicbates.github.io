@@ -1,5 +1,5 @@
 ---
-title: "Nick Bates Portfolio"
+title: "My Portfolio"
 layout: archive
 ---
 
