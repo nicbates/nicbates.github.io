@@ -30,7 +30,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/google-advanced-data-analytics-certificate.png
+  - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
     alt: "google-advanced-data-analytics-certificate"
     title: "Certified Google Advanced Data Analytics Professional"
     excerpt: 'Nick has completed an advanced Google recognised data analytics qualification'
@@ -38,7 +38,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/ibm-data-science-professional-certificate.png
+  - image_path: /assets/images/ibm-data-science-professional-certificate.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aliged"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
