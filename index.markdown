@@ -30,10 +30,10 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  - image_path: /assets/images/google-advanced-data-analytics-certificate.png
+    alt: "google-advanced-data-analytics-certificate"
+    title: "Certified Google Advanced Data Analytics Professional"
+    excerpt: 'Nick has completed an advanced Google recognised data analytics qualification'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
