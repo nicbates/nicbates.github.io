@@ -40,7 +40,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/ibm-data-science-professional-certificate.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+    title: "Placeholder Image Right Aliged"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
