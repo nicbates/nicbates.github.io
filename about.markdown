@@ -69,6 +69,8 @@ You can find out more about each degree I have studied, and how the experience h
 This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
 ## Oxford Uni
+Not sure why this image is not alligning properly.
+
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oxf1.jpg" alt="">
 </figure>
