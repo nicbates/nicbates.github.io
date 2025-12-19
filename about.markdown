@@ -64,8 +64,7 @@ I started my career as a Secondary School teacher of Physics and Mathematics. Qu
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
 ## Loughborough University
 <figure style="width: 150px" class="align-left">
-  <img src="https://nicbates.github.io/assets/images/oxford uni.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
+  <img src="nicbates.github.io/assets/images/oxford uni.jpg" alt="">
 </figure>
 This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
