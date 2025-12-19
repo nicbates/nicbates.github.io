@@ -5,13 +5,15 @@ classess: wide
 author_profile: true
 author: Nick Bates
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Qualifications"
 toc_icon: "cog"
 feature_row:
   - image_path: /assets/images/wrexham uni.jpg
-    alt: "placeholder image 1"
-    title: "## MSc Computer Science & Big Data Analytics"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "MSc Computer Science & Big Data Analytics"
+    excerpt: "MSc Computer Science & Big Data Analytics"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -27,8 +29,8 @@ feature_row:
 
 Having started my ..
 
-# Qualifications
+# Degree Level Education
 
 {% include feature_row %}
 
-# Courses - CPD
+# Courses & CPD Completed
