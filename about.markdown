@@ -60,7 +60,22 @@ toc_icon: "cog"
 
 I started my career as a Secondary School teacher of Physics and Mathematics. Quickly rising to Head of Physics and taking the department through an ofsted school inspection and then a sciecne department inspection -due to a new science curriculum introduction. Both of which resulted in the being rewaredred with the classification of outstanding school and outstanding science department.
 
+# Degree Level Education
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
+## Loughborough University
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oxford uni.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure>
+This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
+
+## Oxford Uni
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oxford uni.jpg" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure>
+This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
+
 # Loughborough University
 {% include feature_row id="feature_row1" type="left" %}
 # Oxford Brookes University
