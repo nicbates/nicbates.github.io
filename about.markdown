@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: single
-classess: wide
+classes: wide
 author_profile: true
 author: Nick Bates
 feature_row:
@@ -17,9 +17,9 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/loughborough uni.jpg
+    title: "Loughborough Uni
+    excerpt: "MPhys Physics"
 feature_row2:
   - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
     alt: "google-advanced-data-analytics-certificate"
