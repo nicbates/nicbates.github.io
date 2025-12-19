@@ -13,7 +13,7 @@ feature_row1:
 feature_row4:
   - image_path: /assets/images/oxford brookes uni.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aliged"
+    excerpt: "Placeholder Image Right Aliged"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -60,12 +60,10 @@ toc_icon: "cog"
 
 I started my career as a Secondary School teacher of Physics and Mathematics. Quickly rising to Head of Physics and taking the department through an ofsted school inspection and then a sciecne department inspection -due to a new science curriculum introduction. Both of which resulted in the being rewaredred with the classification of outstanding school and outstanding science department.
 
-# Degree Level Education
-
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
-## Loughborough University
+# Loughborough University
 {% include feature_row id="feature_row1" type="left" %}
-## Oxford Brookes University
+# Oxford Brookes University
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row %}
