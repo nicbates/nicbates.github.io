@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: single
-classess: wide
+classes: wide
 author_profile: true
 author: Nick Bates
 feature_row:
@@ -18,7 +18,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/loughborough uni.jpg
-    title: "Loughborough Uni
+    title: "Loughborough Uni"
     excerpt: "MPhys Physics"
 feature_row2:
   - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
@@ -54,5 +54,3 @@ As a dedicated data professional you can read about all courses and CPD I have c
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="left" %}
