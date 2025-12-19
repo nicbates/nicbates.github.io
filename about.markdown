@@ -4,9 +4,6 @@ layout: single
 classess: wide
 author_profile: true
 author: Nick Bates
-toc: true
-toc_label: "Qualifications"
-toc_icon: "cog"
 feature_row:
   - image_path: /assets/images/wrexham uni.jpg
     alt: "MSc Computer Science & Big Data Analytics"
@@ -15,7 +12,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/oxford brookes uni.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "BSc Osteopathy"
     excerpt: "BSc Osteopathy"
     url: "#test-link"
@@ -24,7 +20,7 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    feature_row2:
+feature_row2:
   - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
     alt: "google-advanced-data-analytics-certificate"
     title: "Certified Google Advanced Data Analytics Professional"
@@ -40,17 +36,10 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 ---
 
-Having started my ..
+I started my career as a Secondary School teacher of Physics and Mathematics. Quickly rising to Head of Physics and taking the department through an ofsted school inspection and then a sciecne department inspection -due to a new science curriculum introduction. Both of which resulted in the being rewaredred with the classification of outstanding school and outstanding science department.
 
 # Degree Level Education
 
