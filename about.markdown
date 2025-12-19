@@ -11,7 +11,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/oxford brookes uni.jpg
+  - image_path: /assets/images/oxf.jpg
     alt: "placeholder image 2"
     excerpt: "Placeholder Image Right Aliged"
     url: "#test-link"
@@ -72,4 +72,5 @@ You can find out more about each degree I have studied, and how the experience h
 As a dedicated data professional you can read about all courses and CPD I have completed to date to stay current in a fast moving and ever chagning field below.
 ## Google Analytics
 {% include feature_row id="feature_row2" type="left" %}
+## IBM certificate
 {% include feature_row id="feature_row3" type="left" %}
