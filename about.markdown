@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: single
-classes: wide
+classess: wide
 author_profile: true
 author: Nick Bates
 feature_row:
