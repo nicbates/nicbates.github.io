@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 layout: single
-classes: wide
 author_profile: true
 author: Nick Bates
 feature_row:
@@ -18,8 +17,11 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/loughborough uni.jpg
-    title: "Loughborough Uni"
+    alt: "Loughborough Uni"
     excerpt: "MPhys Physics"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
     alt: "google-advanced-data-analytics-certificate"
@@ -36,6 +38,9 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+toc: true
+toc_label: "Qualifications & Courses"
+toc_icon: "cog"
 
 ---
 
@@ -51,6 +56,7 @@ You can find out more about each degree I have studied, and how the experience h
 
 As a dedicated data professional you can read about all courses and CPD I have completed to date to stay current in a fast moving and ever chagning field below.
 
+## Google Analytics
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
