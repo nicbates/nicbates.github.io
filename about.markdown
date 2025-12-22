@@ -3,22 +3,6 @@ title: "About Me"
 layout: single
 author_profile: true
 author: Nick Bates
-
-feature_row2:
-  - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
-    alt: "google advanced data analytics certificate"
-    excerpt: 'Nick has completed an advanced recognised data analytics qualification from Google'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/ibm-data-science-professional-certificate.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aliged"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 toc: true
 toc_label: "Qualifications & Courses"
 toc_icon: "cog"
@@ -30,9 +14,7 @@ I started my career as a Secondary School teacher of Physics and Mathematics. Qu
 # Degree Level Education
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
 ## Loughborough University
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/ibm-data-science-professional-certificate.jpg" alt="">
-</figure>
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loughborough uni.jpg){: .align-left}
 This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
 ## Oxford Uni
@@ -45,6 +27,8 @@ This is some text explaining the basis of what happened here and then a link to 
 # Courses & CPD Completed
 You can read all about courses and CPD I have completed to date below.
 ## Google Analytics
-{% include feature_row id="feature_row2" type="left" %}
+![image-left]({{ site.url }}{{ site.baseurl }}/assests/images/ibm-data-science-professional-certificate.jpg.jpg){: .align-left}
+[Default Button](#link){: .btn .btn--primary }
 ## IBM certificate
-{% include feature_row id="feature_row3" type="left" %}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google-advanced-data-analytics-certificate.jpg){: .align-left}
+[Default Button](#link){: .btn .btn--primary }
