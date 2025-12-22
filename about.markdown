@@ -30,8 +30,8 @@ I started my career as a Secondary School teacher of Physics and Mathematics. Qu
 # Degree Level Education
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
 ## Loughborough University
-<figure style="width: 350px" class="align-left">
-  <img src="/workspace/nicbates.github.io/assets/images/loughborough uni.jpg" alt="">
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/loughborough uni.jpg" alt="">
 </figure>
 This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
@@ -39,7 +39,7 @@ This is some text explaining the basis of what happened here and then a link to 
 Not sure why this image is not alligning properly.
 
 <figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oxf1.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oxf.jpg" alt="">
 </figure>
 This is some text explaining the basis of what happened here and then a link to find out more about what studied.
 
