@@ -17,25 +17,6 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row:
-  - image_path: /assets/images/wrexham uni.jpg
-    alt: "MSc Computer Science & Big Data Analytics"
-    excerpt: "MSc Computer Science & Big Data Analytics"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/oxford brookes uni.jpg
-    alt: "BSc Osteopathy"
-    excerpt: "BSc Osteopathy"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/loughborough uni.jpg
-    alt: "Loughborough Uni"
-    excerpt: "MPhys Physics"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
     alt: "google-advanced-data-analytics-certificate"
@@ -64,7 +45,7 @@ I started my career as a Secondary School teacher of Physics and Mathematics. Qu
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
 ## Loughborough University
 <figure style="width: 150px" class="align-left">
-  <img src="/workspace/nicbates.github.io/assets/images/loghborough uni.jpg" alt="">
+  <img src="/workspace/nicbates.github.io/assets/images/loughborough uni.jpg" alt="">
 </figure>
 This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
@@ -80,8 +61,6 @@ This is some text explaining the basis of what happened here and then a link to 
 {% include feature_row id="feature_row1" type="left" %}
 # Oxford Brookes University
 {% include feature_row id="feature_row4" type="left" %}
-
-{% include feature_row %}
 
 # Courses & CPD Completed
 As a dedicated data professional you can read about all courses and CPD I have completed to date to stay current in a fast moving and ever chagning field below.
