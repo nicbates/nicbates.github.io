@@ -27,7 +27,7 @@ This is some text explaining the basis of what happened here and then a link to 
 # Courses & CPD Completed
 You can read all about courses and CPD I have completed to date below.
 ## Google Analytics
-![image-left]({{ site.url }}{{ site.baseurl }}/assests/images/ibm-data-science-professional-certificate.jpg.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assests/images/google.jpg){: .align-left}
 [Default Button](#link){: .btn .btn--primary }
 ## IBM certificate
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google-advanced-data-analytics-certificate.jpg){: .align-left}
