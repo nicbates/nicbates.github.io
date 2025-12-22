@@ -13,6 +13,9 @@ I started my career as a Secondary School teacher of Physics and Mathematics. Qu
 
 # Degree Level Education
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
+## Wrexham University
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loughborough uni.jpg){: .align-left} This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
+
 ## Loughborough University
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loughborough uni.jpg){: .align-left}
 This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
