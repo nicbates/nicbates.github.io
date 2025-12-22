@@ -3,20 +3,7 @@ title: "About Me"
 layout: single
 author_profile: true
 author: Nick Bates
-feature_row1:
-  - image_path: /assets/images/wrexham uni.jpg
-    alt: "google-advanced-data-analytics-certificate"
-    excerpt: "Certified Google Advanced Data Analytics Professional"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/oxf.jpg
-    alt: "placeholder image 2"
-    excerpt: "Placeholder Image Right Aliged"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 feature_row2:
   - image_path: /assets/images/google-advanced-data-analytics-certificate.jpg
     alt: "google advanced data analytics certificate"
@@ -54,12 +41,7 @@ Not sure why this image is not alligning properly.
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oxf1.jpg" alt="">
 </figure>
-This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
-
-# Loughborough University
-{% include feature_row id="feature_row1" type="left" %}
-# Oxford Brookes University
-{% include feature_row id="feature_row4" type="left" %}
+This is some text explaining the basis of what happened here and then a link to find out more about what studied.
 
 # Courses & CPD Completed
 You can read all about courses and CPD I have completed to date below.
