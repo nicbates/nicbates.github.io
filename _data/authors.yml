@@ -3,9 +3,9 @@ Nick Bates:
   bio         : ""
   avatar      : "/assets/images/1727808941717.jpg"
   links:
-    - label: "Email"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-envelope-square"
       url: "#"
-    - label: "Website"
+    - label: "GitHub"
       icon: "fas fa-fw fa-link"
       url: "#"
