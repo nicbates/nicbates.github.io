@@ -38,4 +38,4 @@ I have completed a course certified by Google and Coursera in Advanced Analytics
 ## IBM Data Science Professional Certificate
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/ibm-data-science-professional-certificate.jpg){: .align-left}
 I have completed an IBM Data Science Professional certificate. Find out more about what the course invloved below.
-[More info](https://coursera.org/share/06aaa025977ab22d959a4584f89b8154){: .btn .btn--primary }
+[More info](https://coursera.org/share/06aaa025977ab22d959a4584f89b8154){: .btn .btn--success }
