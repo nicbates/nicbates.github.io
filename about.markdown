@@ -34,8 +34,7 @@ You can read all about courses and CPD I have completed to date below.
 ## Google Advanced Analytics Professional Certificate
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google.jpg){: .align-left}
 I have completed a course certified by Google and Coursera in Advanced Analytics. Find out more about what the course invloved below.
-<a href="https://coursera.org/share/5d65b19777dbdf18180fe7871490ffa2" class="btn--success">More info</a>
-[More info](https://coursera.org/share/5d65b19777dbdf18180fe7871490ffa2){: .btn .btn--primary }
+[More info]("https://coursera.org/share/5d65b19777dbdf18180fe7871490ffa2" target="_blank"){: .btn .btn--success}
 ## IBM Data Science Professional Certificate
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google.jpg){: .align-left}
 I have completed an IBM Data Science Professional certificate. Find out more about what the course invloved below.
