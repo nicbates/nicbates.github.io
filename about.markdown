@@ -16,7 +16,7 @@ Once I had children, I took part time roles to take a more active role in their 
 # Degree Level Education
 You can find out more about each degree I have studied, and how the experience has made me a rounded data professional below.
 ## Wrexham University
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loughborough uni.jpg){: .align-left} This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/wrexham uni.jpg){: .align-left} This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
 ## Loughborough University
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loughborough uni.jpg){: .align-left}
@@ -31,9 +31,11 @@ This is some text explaining the basis of what happened here and then a link to 
 
 # Courses & CPD Completed
 You can read all about courses and CPD I have completed to date below.
-## Google Analytics
+## Google Advanced Analytics Professional Certificate
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google.jpg){: .align-left}
-[Default Button](#link){: .btn .btn--primary }
-## IBM certificate
+I have completed a course certified by Google and Coursera in Advanced Analytics. Find out more about what the course invloved below.
+[More info](https://coursera.org/share/5d65b19777dbdf18180fe7871490ffa2){: .btn .btn--primary }
+## IBM Data Science Professional Certificate
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google.jpg){: .align-left}
-[Default Button](#link){: .btn .btn--primary }
+I have completed an IBM Data Science Professional certificate. Find out more about what the course invloved below.
+[More info](https://coursera.org/share/06aaa025977ab22d959a4584f89b8154){: .btn .btn--primary }
