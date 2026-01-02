@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: ""
 intro: 
-  - excerpt: "You can check out some of the projects I have been working on & find out about by data credentials below. Or feel free to explore my work & bio in the navigation above."
+  - excerpt: "You can check out some of the projects I have been working on & find out about my data credentials below. Or feel free to explore my work & bio in the navigation above."
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1.jpg
     alt: "linear regression model"
@@ -55,7 +55,7 @@ feature_row4:
   - image_path: /assets/images/wrexham uni.jpg
     alt: "Wrexham University - MSc Computer Science with Big Data Analytics"
     title: "MSc Computer Science with Big Data Analytics"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'I have completed an MSc in Computer Science & Big Data Analytics. You can find out more about all the modules I have studied & how that supports my data credentials below.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
