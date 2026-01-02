@@ -1,11 +1,11 @@
 Nick Bates:
   name        : "Nick Bates"
-  bio         : ""
+  bio         : "I have a passion for data analytics and continued life-long learning. Check out my work by navigating this site. "
   avatar      : "/assets/images/1727808941717.jpg"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-envelope-square"
-      url: "#"
+      url: "https://www.linkedin.com/in/batesnicholas/"
     - label: "GitHub"
       icon: "fas fa-fw fa-link"
-      url: "#"
+      url: "https://github.com/nicbates"
