@@ -19,7 +19,7 @@ You can find out more about each degree I have studied, and how the experience h
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/wrexham uni.jpg){: .align-left} This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
 ## Loughborough University
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loughborough uni.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/loughb small.png){: .align-left}
 This is some text explaining the basis of what happened here and then a link to find out more about what studuyed.
 
 ## Oxford Brookes University
@@ -32,11 +32,11 @@ This is some text explaining the basis of what happened here and then a link to 
 # Courses & CPD Completed
 You can read all about courses and CPD I have completed to date below.
 ## Google Advanced Analytics Professional Certificate
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/google small.jpg){: .align-left}
 I have completed a course certified by Google and Coursera in Advanced Analytics. Find out more about what the course invloved below.
 [More info](https://coursera.org/share/b58f61fd41cc808a89da6b48368151e0){: .btn .btn--success}
 ## IBM Data Science Professional Certificate
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/ibm-data-science-professional-certificate.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/ibm-data-science-professional-certificate-small.jpg){: .align-left}
 I have completed an IBM Data Science Professional certificate. Find out more about what the course invloved below.
 [More info](https://coursera.org/share/06aaa025977ab22d959a4584f89b8154){: .btn .btn--success }
 ## Data Analysis with Python and Pandas 
