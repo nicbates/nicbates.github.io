@@ -56,7 +56,7 @@ feature_row4:
     alt: "Wrexham University - MSc Computer Science with Big Data Analytics"
     title: "MSc Computer Science with Big Data Analytics"
     excerpt: 'I have completed an MSc in Computer Science & Big Data Analytics. You can find out more about all the modules I have studied & how that supports my data credentials below.'
-    url: "#test-link"
+    url: "https://nicbates.github.io/wrexham-uni"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
