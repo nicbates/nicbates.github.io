@@ -14,7 +14,7 @@ excerpt: ""
 intro: 
   - excerpt: "You can check out some of the projects I have been working on & find out about my data credentials below. Or feel free to explore my work & bio in the navigation above."
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1.jpg
+  - image_path: /assets/images/lin reg.jpg
     alt: "linear regression model"
     title: "Linear Regression"
     excerpt: "Highlighting the use case for a linear regression model in a supervised learning task with a continous variable."

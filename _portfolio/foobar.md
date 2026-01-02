@@ -3,7 +3,7 @@ title: "Foo Bar Identity"
 layout: single
 header:
   image: /assets/images/unsplash-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1.jpg
+  teaser: assets/images/lin reg.jpg
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1.jpg
