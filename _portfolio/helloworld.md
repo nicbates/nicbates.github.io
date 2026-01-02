@@ -33,7 +33,7 @@ end
 {% endhighlight %}
 
 <figure>
-    <a href="/assets/images/wrexham uni.jpg"><img src="/assets/images/wrexham uni.jpg"></a>
+    <a href="/assets/images/wrexham uni.jpg" class="image-popup"><img src="/assets/images/wrexham uni.jpg"></a>
    
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
