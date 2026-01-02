@@ -32,6 +32,13 @@ def foo
 end
 {% endhighlight %}
 
+<figure>
+    <a href="/assets/images/wrexham uni.jpg"><img src="/assets/images/wrexham uni.jpg"></a>
+   
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
+
 ## header 2
 Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
 
